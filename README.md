@@ -30,4 +30,10 @@ We use **secure servers** and advanced protection methods to ensure your account
 ### Contact for orders & support:
 
 - Telegram: [@josifkhan](https://t.me/josifkhan)  
-- WhatsApp: +8801868608046
+- WhatsApp: +8801868608046  
+
+---
+
+### Join our active public chat group for updates & support:
+
+- Telegram Group: [t.me/jktools24](https://t.me/jktools24)
