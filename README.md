@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://i.gifer.com/7efs.gif" alt="FB Tool" width="120" />
+  <a href="https://t.me/josifkhan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=F7F7F7&center=true&vCenter=true&background=000&multiline=true&width=700&height=80&lines=Contact+for+Business+Level+Programs+and+Scripts;Telegram:+@josifkhan" alt="Typing SVG" />
+  </a>
 </p>
+
 
 # 🚀 Facebook Tools — Windows / Python
 
